@@ -1,0 +1,7 @@
+{
+  "user": "username",
+  "telegram chat id": "",
+  "telegram bot token": "",
+  "max time captcha": "25",
+  "mouse up if top difference more than": "0.005"
+}
